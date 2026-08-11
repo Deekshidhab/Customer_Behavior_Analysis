@@ -60,9 +60,7 @@ The dataset initially contained **37 missing values in the Review Rating column*
 | **Pandas**       | Data manipulation and analysis                    |
 | **PostgreSQL**   | Database storage and SQL analysis                 |
 | **SQL**          | Business analysis and querying                    |
-| **Power BI**     | Interactive dashboard                             |
-| **Gamma**        | Project presentation                              |
-| **Git & GitHub** | Project documentation and version control         |
+| **Power BI**     | Interactive dashboard                             |         |
 
 ---
 
