@@ -150,7 +150,8 @@ The dashboard provides a clear view of customer behavior, purchasing patterns, p
 
 ### Dashboard Preview
 
-<img width="1298" height="736" alt="Customer_Shopping_Behavior_Analysis_image" src="https://github.com/user-attachments/assets/191bd4be-8415-4561-89da-741585c58b7b" />
+<img width="1289" height="724" alt="Screenshot 2026-08-11 225905" src="https://github.com/user-attachments/assets/e5ba664a-92ac-42e1-b574-fdbadc71a0b5" />
+
 
 ```
 
