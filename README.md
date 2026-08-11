@@ -154,7 +154,7 @@ Add your Power BI dashboard screenshot here:
 
 ```markdown
 ![Customer Shopping Behavior Dashboard]
-<img width="1298" height="736" alt="image" src="https://github.com/user-attachments/assets/8bf36078-3e6c-4978-bf78-ba85bb5b2a4a" />
+<img width="1298" height="736" alt="Customer_Shopping_Behavior_Analysis_image" src="https://github.com/user-attachments/assets/e0f3a30d-f9a4-4cbd-8833-6fb39ef79fa8" />
 
 ```
 
