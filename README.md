@@ -208,7 +208,7 @@ Focus marketing efforts on high-revenue age groups and customers associated with
 
 **Deekshidha B**
 
-B.Tech Information Technology Graduate
+B.Tech Information Technology Graduate \n
 Aspiring Data Engineer & Data Analyst
 
 ---
