@@ -153,7 +153,9 @@ The dashboard provides a clear view of customer behavior, purchasing patterns, p
 Add your Power BI dashboard screenshot here:
 
 ```markdown
-![Customer Shopping Behavior Dashboard](Customer_Shopping_Behavior_Analysis.pbix)
+![Customer Shopping Behavior Dashboard]
+<img width="1298" height="736" alt="image" src="https://github.com/user-attachments/assets/8bf36078-3e6c-4978-bf78-ba85bb5b2a4a" />
+
 ```
 
 ---
