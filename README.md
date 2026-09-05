@@ -228,6 +228,8 @@ Customer_Behavior_Analysis/
 │
 └── README.md
 
+---
+
 ## 👩‍💻 Author
 
 **Deekshidha B**
