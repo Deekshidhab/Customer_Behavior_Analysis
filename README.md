@@ -153,9 +153,6 @@ The dashboard provides a clear view of customer behavior, purchasing patterns, p
 <img width="1289" height="724" alt="Screenshot 2026-08-11 225905" src="https://github.com/user-attachments/assets/e5ba664a-92ac-42e1-b574-fdbadc71a0b5" />
 
 
-```
-
-
 ## 💡 Key Business Recommendations
 
 Based on the analysis, the following recommendations were identified:
@@ -204,7 +201,7 @@ Focus marketing efforts on high-revenue age groups and customers associated with
 
 ## 📁 Project Structure
 
-```text
+
 Customer_Behavior_Analysis/
 │
 ├── data/
