@@ -201,7 +201,7 @@ Focus marketing efforts on high-revenue age groups and customers associated with
 
 ## 📁 Project Structure
 
-
+```text
 Customer_Behavior_Analysis/
 │
 ├── data/
@@ -227,9 +227,7 @@ Customer_Behavior_Analysis/
 │   └── Customer-Shopping-Behavior-Analysis-ppt.pdf
 │
 └── README.md
-
----
-
+```
 ## 👩‍💻 Author
 
 **Deekshidha B**
